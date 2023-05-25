@@ -56,13 +56,13 @@ export const AccountProfile = () => (
         </Typography>
       </Box>
     </CardContent>
-    <Divider />
+     <Divider /> 
     <CardActions>
       <Button
         fullWidth
         variant="text"
       >
-        Upload picture
+        Upload foto
       </Button>
     </CardActions>
   </Card>
