@@ -28,7 +28,7 @@ const Page = () => (
       }}
     >
       <Container maxWidth="xl">
-        <Grid
+        {/* <Grid
           container
           spacing={3}
         >
@@ -217,7 +217,7 @@ const Page = () => (
               sx={{ height: '100%' }}
             />
           </Grid>
-        </Grid>
+        </Grid> */}
       </Container>
     </Box>
   </>

@@ -17,6 +17,15 @@ export const items = [
     )
   },
   {
+    title: 'AIPC',
+    path: '/aipc',
+    icon: (
+      <SvgIcon fontSize="small">
+        <ChartBarIcon />
+      </SvgIcon>
+    )
+  },
+  {
     title: 'Usuários',
     path: '/customers',
     icon: (

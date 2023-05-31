@@ -56,7 +56,7 @@ export const CustomersTable = (props) => {
                   />
                 </TableCell>
                 <TableCell>
-                  Name
+                  Nome
                 </TableCell>
                 <TableCell>
                   Email

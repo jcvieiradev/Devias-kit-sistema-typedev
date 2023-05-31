@@ -25,8 +25,8 @@ export const SettingsNotifications = () => {
     <form onSubmit={handleSubmit}>
       <Card>
         <CardHeader
-          subheader="Manage the notifications"
-          title="Notifications"
+          subheader="Gerenciar as notificações"
+          title="Notificações"
         />
         <Divider />
         <CardContent>
@@ -42,7 +42,7 @@ export const SettingsNotifications = () => {
             >
               <Stack spacing={1}>
                 <Typography variant="h6">
-                  Notifications
+                  Notificações
                 </Typography>
                 <Stack>
                   <FormControlLabel
@@ -72,7 +72,7 @@ export const SettingsNotifications = () => {
             >
               <Stack spacing={1}>
                 <Typography variant="h6">
-                  Messages
+                  Mensagens
                 </Typography>
                 <Stack>
                   <FormControlLabel
@@ -95,7 +95,7 @@ export const SettingsNotifications = () => {
         <Divider />
         <CardActions sx={{ justifyContent: 'flex-end' }}>
           <Button variant="contained">
-            Save
+            Salvar
           </Button>
         </CardActions>
       </Card>
